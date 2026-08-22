@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -16,5 +17,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3959-check-good-integer](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/3959-check-good-integer) |
 <!---LeetCode Topics End-->
