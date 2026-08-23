@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3959-check-good-integer](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/3959-check-good-integer) |
+## String
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
