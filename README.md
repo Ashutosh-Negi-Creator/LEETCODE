@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0062-unique-paths) |
 | [3959-check-good-integer](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/3959-check-good-integer) |
 ## Simulation
 |  |
@@ -29,10 +30,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0198-house-robber) |
 | [0740-delete-and-earn](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0740-delete-and-earn) |
 ## Hash Table
 |  |
 | ------- |
 | [0740-delete-and-earn](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0740-delete-and-earn) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
