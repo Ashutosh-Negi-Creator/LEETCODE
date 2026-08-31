@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
+| [0434-number-of-segments-in-a-string](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0434-number-of-segments-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0657-robot-return-to-origin) |
 ## Dynamic Programming
 |  |
