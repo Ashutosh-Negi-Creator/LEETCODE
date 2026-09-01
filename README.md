@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0221-maximal-square) |
 | [0740-delete-and-earn](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0740-delete-and-earn) |
 | [0931-minimum-falling-path-sum](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0221-maximal-square) |
 | [0740-delete-and-earn](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0740-delete-and-earn) |
 | [0931-minimum-falling-path-sum](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,4 +63,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0221-maximal-square](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0221-maximal-square) |
 | [0931-minimum-falling-path-sum](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1277-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
