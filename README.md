@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0066-plus-one) |
 | [0198-house-robber](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0221-maximal-square) |
+| [0474-ones-and-zeroes](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0494-target-sum) |
 | [0740-delete-and-earn](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0740-delete-and-earn) |
 | [0905-sort-array-by-parity](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0905-sort-array-by-parity) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0434-number-of-segments-in-a-string) |
+| [0474-ones-and-zeroes](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0657-robot-return-to-origin](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0657-robot-return-to-origin) |
 ## Dynamic Programming
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0221-maximal-square) |
+| [0474-ones-and-zeroes](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0494-target-sum) |
 | [0740-delete-and-earn](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0740-delete-and-earn) |
 | [0931-minimum-falling-path-sum](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
@@ -103,9 +106,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0474-ones-and-zeroes](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0474-ones-and-zeroes](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
