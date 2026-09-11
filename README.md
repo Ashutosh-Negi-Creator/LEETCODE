@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0070-climbing-stairs) |
+| [3536-maximum-product-of-two-digits](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3959-check-good-integer](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/3959-check-good-integer) |
 ## Simulation
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [3467-transform-array-by-parity](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/3467-transform-array-by-parity) |
+| [3536-maximum-product-of-two-digits](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
 | ------- |
