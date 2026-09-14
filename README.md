@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3467-transform-array-by-parity](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/3467-transform-array-by-parity) |
+| [3903-smallest-stable-index-i](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0494-target-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
