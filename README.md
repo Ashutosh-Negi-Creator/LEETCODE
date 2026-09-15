@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0434-number-of-segments-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0657-robot-return-to-origin](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0657-robot-return-to-origin) |
+| [1143-longest-common-subsequence](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0494-target-sum) |
 | [0740-delete-and-earn](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0740-delete-and-earn) |
 | [0931-minimum-falling-path-sum](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
+| [1143-longest-common-subsequence](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Hash Table
 |  |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/3903-smallest-stable-index-i) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
