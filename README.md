@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0434-number-of-segments-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0474-ones-and-zeroes) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0221-maximal-square) |
 | [0474-ones-and-zeroes](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0474-ones-and-zeroes) |
