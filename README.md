@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
 | [0657-robot-return-to-origin](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0657-robot-return-to-origin) |
+| [1092-shortest-common-supersequence](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0740-delete-and-earn) |
 | [0931-minimum-falling-path-sum](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [1035-uncrossed-lines](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1035-uncrossed-lines) |
+| [1092-shortest-common-supersequence](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Hash Table
@@ -135,5 +137,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
 | [1035-uncrossed-lines](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1035-uncrossed-lines) |
+| [1092-shortest-common-supersequence](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
