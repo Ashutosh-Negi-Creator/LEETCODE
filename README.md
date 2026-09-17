@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0097-interleaving-string) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0064-minimum-path-sum) |
@@ -141,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-uncrossed-lines](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1035-uncrossed-lines) |
 | [1092-shortest-common-supersequence](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1143-longest-common-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
