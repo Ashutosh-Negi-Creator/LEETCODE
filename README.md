@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0279-perfect-squares) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3959-check-good-integer](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/3959-check-good-integer) |
 ## Simulation
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0221-maximal-square) |
+| [0279-perfect-squares](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0494-target-sum) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0494-target-sum) |
@@ -168,10 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0322-coin-change) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
