@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0066-plus-one) |
 | [0198-house-robber](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0221-maximal-square) |
+| [0300-longest-increasing-subsequence](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0494-target-sum) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0494-target-sum) |
@@ -179,4 +181,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0518-coin-change-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
