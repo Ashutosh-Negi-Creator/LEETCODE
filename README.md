@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0383-ransom-note) |
 | [0434-number-of-segments-in-a-string](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0434-number-of-segments-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0383-ransom-note) |
 | [0740-delete-and-earn](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0740-delete-and-earn) |
 ## Combinatorics
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0383-ransom-note) |
 | [3467-transform-array-by-parity](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/3467-transform-array-by-parity) |
 ## Divide and Conquer
 |  |
