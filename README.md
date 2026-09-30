@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [1035-uncrossed-lines](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1035-uncrossed-lines) |
+| [1048-longest-string-chain](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/2057-smallest-index-with-equal-value) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0845-longest-mountain-in-array) |
 | [0905-sort-array-by-parity](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
+| [1048-longest-string-chain](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1048-longest-string-chain) |
 ## Math
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
 | [0657-robot-return-to-origin](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0657-robot-return-to-origin) |
+| [1048-longest-string-chain](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0845-longest-mountain-in-array) |
 | [0931-minimum-falling-path-sum](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [1035-uncrossed-lines](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1035-uncrossed-lines) |
+| [1048-longest-string-chain](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -110,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0383-ransom-note) |
 | [0740-delete-and-earn](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0740-delete-and-earn) |
+| [1048-longest-string-chain](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1048-longest-string-chain) |
 ## Combinatorics
 |  |
 | ------- |
@@ -132,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0905-sort-array-by-parity](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
+| [1048-longest-string-chain](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1048-longest-string-chain) |
 | [3467-transform-array-by-parity](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
