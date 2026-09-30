@@ -4,6 +4,7 @@ public:
         while(low<high){
             int mid = low + (high - low)/2;
             if(tail[mid] < target){
+                
                 low = mid+1;
             }
             else high = mid;
