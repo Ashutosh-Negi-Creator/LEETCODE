@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [1035-uncrossed-lines](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1035-uncrossed-lines) |
 | [1048-longest-string-chain](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1048-longest-string-chain) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/2057-smallest-index-with-equal-value) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1143-longest-common-subsequence) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0383-ransom-note) |
 | [0740-delete-and-earn](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0740-delete-and-earn) |
 | [1048-longest-string-chain](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1048-longest-string-chain) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 ## Combinatorics
 |  |
 | ------- |
