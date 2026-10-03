@@ -1,8 +1,8 @@
 class Solution {
 public:
     bool helper(string& s, string& p,int i,int j,vector<vector<int>>& dp){
-        if(j==0 && i!=0) return false;
-        else if(j==0 && i == 0) return true;
+        if(j==0 && i!=0) return false; // when p is empty and s is not
+        else if(j==0 && i == 0) return true; // when both s and p beocmes empty
         else if(i == 0){
             while(j>0){
                 if(p[j-1] != '*'){
