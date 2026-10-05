@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
+| [1027-longest-arithmetic-subsequence](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1027-longest-arithmetic-subsequence) |
 | [1035-uncrossed-lines](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1035-uncrossed-lines) |
 | [1048-longest-string-chain](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0740-delete-and-earn) |
 | [0845-longest-mountain-in-array](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0845-longest-mountain-in-array) |
 | [0931-minimum-falling-path-sum](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
+| [1027-longest-arithmetic-subsequence](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1027-longest-arithmetic-subsequence) |
 | [1035-uncrossed-lines](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1035-uncrossed-lines) |
 | [1048-longest-string-chain](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1092-shortest-common-supersequence) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0383-ransom-note) |
 | [0740-delete-and-earn](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0740-delete-and-earn) |
+| [1027-longest-arithmetic-subsequence](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1027-longest-arithmetic-subsequence) |
 | [1048-longest-string-chain](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 ## Combinatorics
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0354-russian-doll-envelopes) |
+| [1027-longest-arithmetic-subsequence](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1027-longest-arithmetic-subsequence) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Longest Increasing Subsequence
 |  |
