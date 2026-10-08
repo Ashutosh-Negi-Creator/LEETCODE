@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0474-ones-and-zeroes](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0486-predict-the-winner) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3959-check-good-integer](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/3959-check-good-integer) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0474-ones-and-zeroes](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0044-wildcard-matching) |
+| [0486-predict-the-winner](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0486-predict-the-winner) |
 ## Enumeration
 |  |
 | ------- |
@@ -249,4 +253,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
