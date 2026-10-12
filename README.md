@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/2057-smallest-index-with-equal-value) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Hash Table
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [1048-longest-string-chain](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1048-longest-string-chain) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3467-transform-array-by-parity](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
