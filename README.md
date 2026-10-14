@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0368-largest-divisible-subset) |
+| [0410-split-array-largest-sum](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0494-target-sum) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0368-largest-divisible-subset) |
+| [0410-split-array-largest-sum](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0494-target-sum) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [3903-smallest-stable-index-i](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/3903-smallest-stable-index-i) |
 ## Longest Common Subsequence
 |  |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0044-wildcard-matching) |
+| [0410-split-array-largest-sum](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Recursion
 |  |
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0354-russian-doll-envelopes) |
+| [0410-split-array-largest-sum](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1027-longest-arithmetic-subsequence) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Longest Increasing Subsequence
