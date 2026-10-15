@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1143-longest-common-subsequence) |
+| [1278-palindrome-partitioning-iii](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1278-palindrome-partitioning-iii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1278-palindrome-partitioning-iii](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1278-palindrome-partitioning-iii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
