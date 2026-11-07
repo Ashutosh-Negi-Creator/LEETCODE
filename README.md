@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0518-coin-change-ii) |
+| [0605-can-place-flowers](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0740-delete-and-earn) |
 | [0845-longest-mountain-in-array](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0845-longest-mountain-in-array) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0410-split-array-largest-sum](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [0605-can-place-flowers](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0605-can-place-flowers) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Recursion
 |  |
