@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0132-palindrome-partitioning-ii) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0434-number-of-segments-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0740-delete-and-earn](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0740-delete-and-earn) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1027-longest-arithmetic-subsequence) |
 | [1048-longest-string-chain](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1048-longest-string-chain) |
@@ -278,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0486-predict-the-winner) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
