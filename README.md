@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2057-smallest-index-with-equal-value](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/2057-smallest-index-with-equal-value) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3467-transform-array-by-parity](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/3467-transform-array-by-parity) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0221-maximal-square) |
 | [0931-minimum-falling-path-sum](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Memoization
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/0322-coin-change) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Ashutosh-Negi-Creator/LEETCODE/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Complete Knapsack
 |  |
 | ------- |
